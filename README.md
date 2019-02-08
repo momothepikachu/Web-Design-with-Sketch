@@ -4,14 +4,18 @@ Designed layouts for responsive websites as well as two screens for accompanying
 
 ## Desktop:
 
-![screenshot](Desktop.jpg)
+<img src="Desktop.jpg" width="600px">
+
+
 
 ## Tablet:
 
-![screenshot](Tablet.jpg)
+<img src="Tablet.jpg" width="400px">
+
 
 ## Mobile App:
-![screenshot](App_Launch.jpg)
 
-![screenshot](App_Organic.jpg)
+<img src="App_Launch.jpg" width="250px">
+<img src="App_Organic.jpg" width="250px">
+
 
