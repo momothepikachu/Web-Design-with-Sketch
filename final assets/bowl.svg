@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="78px" viewBox="0 0 160 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>bowl</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-743.000000, -1355.000000)">
+            <g id="essentials" transform="translate(129.000000, 1293.000000)">
+                <g id="bowl" transform="translate(619.000000, 66.000000)">
+                    <path d="M6.88440347,31 L141.115597,31 C128.80939,54.1232476 103.377149,70 74,70 C44.6228508,70 19.1906104,54.1232476 6.88440347,31 Z" id="Combined-Shape" fill="#F9D49D"></path>
+                    <path d="M0.00728731994,0 L149.992713,0 C149.427614,38.7512336 116.06867,70 75,70 C33.9313303,70 0.572386474,38.7512336 0.00728731994,-3.71924713e-15 Z" id="Combined-Shape-Copy" stroke="#574A3F" stroke-width="8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

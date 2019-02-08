@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="168px" viewBox="0 0 149 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>measuring spoons</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-759.000000, -1459.000000)">
+            <g id="essentials" transform="translate(129.000000, 1293.000000)">
+                <g id="measuring-spoons" transform="translate(634.000000, 167.000000)">
+                    <ellipse id="color" fill="#BF5001" cx="39.5244565" cy="74.35" rx="39.5244565" ry="39.6681818"></ellipse>
+                    <ellipse id="Oval-4-Copy" stroke="#584A3F" stroke-width="8" cx="39.5244565" cy="74.35" rx="39.5244565" ry="39.6681818"></ellipse>
+                    <rect id="Rectangle-6" stroke="#584A3F" stroke-width="8" transform="translate(102.277766, 27.861867) rotate(-36.000000) translate(-102.277766, -27.861867) " x="70.0087441" y="16.952776" width="64.5380435" height="21.8181818" rx="8"></rect>
+                    <ellipse id="color" fill="#95C100" transform="translate(109.537502, 136.222522) rotate(-41.000000) translate(-109.537502, -136.222522) " cx="109.537502" cy="136.222522" rx="26.0244565" ry="26.1190909"></ellipse>
+                    <ellipse id="Oval-3-Copy" stroke="#584A3F" stroke-width="8" transform="translate(109.537502, 136.222522) rotate(-41.000000) translate(-109.537502, -136.222522) " cx="109.537502" cy="136.222522" rx="26.0244565" ry="26.1190909"></ellipse>
+                    <path d="M91.8622912,70.8772085 C91.8622912,66.458712 95.4472133,62.8768129 99.8568663,62.8768129 L148.40576,62.8768129 C152.821042,62.8768129 156.400335,66.4552105 156.400335,70.8772085 L156.400335,76.6945993 C156.400335,81.1130957 152.815413,84.6949948 148.40576,84.6949948 L99.8568663,84.6949948 C95.4415844,84.6949948 91.8622912,81.1165973 91.8622912,76.6945993 L91.8622912,70.8772085 Z" id="Rectangle-5" stroke="#584A3F" stroke-width="8" transform="translate(124.131313, 73.785904) rotate(-77.000000) translate(-124.131313, -73.785904) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

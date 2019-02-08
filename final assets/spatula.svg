@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="264px" viewBox="0 0 83 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>spatula</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1226.000000, -1317.000000)">
+            <g id="essentials" transform="translate(129.000000, 1293.000000)">
+                <g id="spatula" transform="translate(1101.000000, 28.000000)">
+                    <path d="M35,0 L75,0 L75,112 L0,112 L0,35 C-2.36723813e-15,15.6700338 15.6700338,3.55085719e-15 35,0 Z" id="Rectangle" stroke="#574A3F" stroke-width="8"></path>
+                    <rect id="Rectangle" fill="#D3611D" x="25" y="56" width="25" height="200"></rect>
+                    <rect id="Rectangle" stroke="#574A3F" stroke-width="8" x="25" y="56" width="25" height="200"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
